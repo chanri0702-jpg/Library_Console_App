@@ -1,0 +1,39 @@
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.AssemblyReference.cache
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe.config
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.pdb
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.pdb
+C:\Users\603071\source\repos\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe.config
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.pdb
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe.config
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe
+C:\Users\User\Downloads\PRG281_Milestone2 1 (2)\PRG281_Milestone2 1\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.pdb
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe.config
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.pdb
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.AssemblyReference.cache
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe.config
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe
+C:\Users\chanr\OneDrive\Documents\Belgium Campus Itversity\BComp Year 2 2025\Programming\PRG281_Milestone2s\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.pdb
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe.config
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.pdb
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.AssemblyReference.cache
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe.config
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe
+C:\Users\601635\Downloads\PRG281_Milestone2 with autoEmail\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.pdb
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe.config
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.exe
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\bin\Debug\PRG281_Milestone2.pdb
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.AssemblyReference.cache
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe.config
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.exe
+C:\Users\601635\Desktop\PRG281_Milestone2\PRG281_Milestone2\obj\Debug\PRG281_Milestone2.pdb
